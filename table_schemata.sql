@@ -1,5 +1,5 @@
 -- create department table
-DROP CASCADE TABLE IF EXISTS "departments"
+DROP TABLE IF EXISTS "departments"
 
 CREATE TABLE "departments" (
     "dept_no" varchar   NOT NULL,
